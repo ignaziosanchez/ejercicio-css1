@@ -1,0 +1,86 @@
+/**
+.logo-wrapper {
+    background-color: red;
+    
+    width: 100%;
+}
+
+.logo-wrapper .logo 
+    {
+     width: 100px ;
+     height: ;   
+     display: block;
+     margin-top: 100px;
+     margin-bottom: 200px;
+     margin-left: 10px;
+     margin-right: 20px;
+     background-color: blue;
+    } */
+body
+{
+    background-color: white;
+}
+
+
+.logo-wrapper 
+    {
+        /*border: solid black 3px;*/
+        text-align: center;
+    }
+
+    .logo-wrapper .logo 
+        {
+            width: 100px;
+            
+        }
+
+.title 
+        {
+            font-family: Helvetica ;
+            font-size: 3em;
+            text-align: center;
+            padding-bottom: 20px;
+        }
+    
+.caja
+        {
+            display: block;
+            
+            background-color: gainsboro;
+            /*border: solid black 3px;*/
+            font-family: arial;
+            width: 800px;
+            margin-left: 250px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            padding-left: 30px;
+            padding-right: 10px;
+            
+        }
+
+        
+
+
+.caja2
+        {
+            display: block;
+            /*border: solid black 3px;*/
+            font-family: arial;
+            width: 900px;
+            margin-left: 190px;
+            padding-top: 10px;
+            margin-top: 20px;
+            
+        }
+
+        .caja2-oracion1
+            {
+                font-size: 0.7em;
+                margin-left: 40px;
+                margin-bottom: 25px;
+            }
+
+        .caja2-oracion2
+            {
+                margin-left: 40px;
+            }
